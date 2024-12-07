@@ -1,0 +1,13 @@
+17:18:40.209 [main] FATAL   com.Logger.LoggerDemo -This is an fatal
+17:18:40.212 [main] ERROR   com.Logger.LoggerDemo -This is an error code
+17:18:40.212 [main] WARN    com.Logger.LoggerDemo -This is an warn code
+17:18:40.212 [main] INFO    com.Logger.LoggerDemo -This is an info code
+17:18:40.212 [main] DEBUG   com.Logger.LoggerDemo -This is an debug code
+17:18:40.213 [main] TRACE   com.Logger.LoggerDemo -This is an trace code
+17:45:44.224 [main] INFO    com.Logger.SauceDemo -Chrome browser has been launched
+17:45:44.621 [main] INFO    com.Logger.SauceDemo -User has been open Sauce demo site
+17:45:44.736 [main] INFO    com.Logger.SauceDemo -In user filed'standard_user' has been entered
+17:45:44.818 [main] INFO    com.Logger.SauceDemo -In password filed 'secret_sauce' has been entered
+17:45:44.943 [main] INFO    com.Logger.SauceDemo -user clicked on login button
+17:45:45.017 [main] INFO    com.Logger.SauceDemo -clicked on menu button
+17:45:45.232 [main] INFO    com.Logger.SauceDemo -clicked on logout button
